@@ -29,6 +29,8 @@ Sayfaya yeni kaynak eklemek için:
 ### Siber Güvenlik (Cyber Security)
 * [Derin Ögrenme Teknolojileri Kullanarak Dağıtık Hizmet Dışı Bırakma Saldırılarının Tespit Edilmesi
 ](https://ocatak.github.io/papers/poster_foc.pdf) (Ferhat Özgür Çatak, Ahmet Fatih Mustaçoglu)
+* Siber Güvenlik ile Yapay Zeka konularının bir arada kullanıldığı alanlar için bilgilendirici webinar. 
+[BGA Security adına Ebubekir Büber tarafından hazırlanan webinar: https://www.youtube.com/watch?v=-ml2qbOvLxk&list=PL3Ot26zh_V0VriTeqNe_oP-nttnezWjcE]
 
 ## ÇATI (FRAMEWORK)
 ### Caffe
